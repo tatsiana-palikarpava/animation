@@ -1,4 +1,5 @@
 #    Add-on info
+#    Animation course, University of Valencia
 bl_info = {
     'name': 'Interpolation',
     'author': 'Marc Guerrero Palanca, Tatsiana Palikarpava, Alberto Pérez Abad',
