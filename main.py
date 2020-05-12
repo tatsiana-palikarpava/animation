@@ -1,4 +1,4 @@
-#    Addon info
+#    Add-on info
 bl_info = {
     'name': 'Interpolation',
     'author': 'Marc Guerrero Palanca, Tatsiana Palikarpava, Alberto Pérez Abad',
